@@ -125,4 +125,4 @@ export const userUpdateReducer = (state = { user: {} }, action) => {
     default:
       return state;
   }
-};
+}
